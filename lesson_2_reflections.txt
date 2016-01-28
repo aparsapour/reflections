@@ -2,3 +2,7 @@ What happens when you initialize a repository? Why do you need to do it?
 A new directory in the name of .git gets created.
 Thats because we want to track changes of certain fuiles in the directory.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Filed in stagung area gets tracked while working directory contains the final versions of the files.
+
+The value is library of final files.
