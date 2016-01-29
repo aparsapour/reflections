@@ -9,3 +9,7 @@ The value is library of final files.
 
 How can you use the staging area to make sure you have one commit per logical change?
 Add or cahnge the files one at a time.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When an experimental version is going in parallel with a master branch & would be developed independent of that. So, Branches enables one to keep developments independent of each other.
+
