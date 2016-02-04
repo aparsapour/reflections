@@ -21,3 +21,5 @@ What is the result of merging two branches together? Why do we represent it in t
 The merged branch fuses into the main branch & vanishes from the main route.
 Perhaps when conditions are not in favor of merging & merging is impossible.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Atomatic merging is good when merging is staright forward. but in situation when two person work on on part of code & Automatic do not work & merging person has to figureout what is the final resolution.
