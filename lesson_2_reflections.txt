@@ -17,3 +17,7 @@ How do the diagrams help you visualize the branch structure?
 One may see the hierarchy of branches & how accessible the branches are.
 besides, it shows how independently each bracn will go & evolve.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The merged branch fuses into the main branch & vanishes from the main route.
+Perhaps when conditions are not in favor of merging & merging is impossible.
+
